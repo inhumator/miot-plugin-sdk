@@ -64,18 +64,18 @@ After the project is created (such as xxx.yyy.zzz), there is a project configura
 ## Documentation
 🎉 UI component documentation officially released
 
-[Official version](https://github.com/MiEcosystem/miot-plugin-sdk/blob/master/%E7%B1%B3%E5%AE%B6%E6%8F%92%E4%BB%B6% E9%80%9A%E7%94%A8UI%E7%BB%84%E4%BB%B6%E6%89%8B%E5%86%8C.md), including only released components
+[Official version](https://github.com/MiEcosystem/miot-plugin-sdk/blob/master/%E7%B1%B3%E5%AE%B6%E6%8F%92%E4%BB%B6%E9%80%9A%E7%94%A8UI%E7%BB%84%E4%BB%B6%E6%89%8B%E5%86%8C.md), including only released components
 
-[Preview](https://github.com/MiEcosystem/miot-plugin-sdk/blob/ui_doc/%E7%B1%B3%E5%AE%B6%E6%8F%92%E4%BB%B6% E9%80%9A%E7%94%A8UI%E7%BB%84%E4%BB%B6%E6%89%8B%E5%86%8C.md), including the components that have been released and those that have been developed to be released components
+[Preview](https://github.com/MiEcosystem/miot-plugin-sdk/blob/ui_doc/%E7%B1%B3%E5%AE%B6%E6%8F%92%E4%BB%B6%E9%80%9A%E7%94%A8UI%E7%BB%84%E4%BB%B6%E6%89%8B%E5%86%8C.md), including the components that have been released and those that have been developed to be released components
 
 For plugin development, please refer to ["MIOT SDK API"](https://github.com/MiEcosystem/miot-plugin-sdk/wiki)
             ["CHANGELOG"](https://github.com/MiEcosystem/miot-plugin-sdk/releases)
 
-Please refer to ["Upgrade Guide"](https://github.com/MiEcosystem/miot-plugin-sdk/wiki/RN61%E5%BC%80%E5%8F%91%E8 to upgrade the plugin from RN54 version to 61 version %80%85%E5%8D%87%E7%BA%A7%E6%8C%87%E5%8D%97)
+Please refer to ["Upgrade Guide"](https://github.com/MiEcosystem/miot-plugin-sdk/wiki/RN61%E5%BC%80%E5%8F%91%E8%80%85%E5%8D%87%E7%BA%A7%E6%8C%87%E5%8D%97)
 
-For plugin migration from the old framework to the new framework, please refer to ["Migration Manual"](https://github.com/MiEcosystem/miot-plugin-sdk/blob/master/%E8%BF%81%E7%A7%BB% E6%89%8B%E5%86%8C.md)
+For plugin migration from the old framework to the new framework, please refer to ["Migration Manual"](https://github.com/MiEcosystem/miot-plugin-sdk/blob/master/%E8%BF%81%E7%A7%BB%E6%89%8B%E5%86%8C.md)
 
-For the plugin debugging process, please refer to ["Debugging Instructions"](https://github.com/MiEcosystem/miot-plugin-sdk/blob/master/%E8%B0%83%E8%AF%95%E8%AF%B4 %E6%98%8E.md)
+For the plugin debugging process, please refer to ["Debugging Instructions"](https://github.com/MiEcosystem/miot-plugin-sdk/blob/master/%E8%B0%83%E8%AF%95%E8%AF%B4%E6%98%8E.md)
 
 
 ## Debug environment
